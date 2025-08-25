@@ -1,0 +1,601 @@
+timestamp,frame,total_people,total_vehicles,total_objects,other_objects,object_breakdown,zone,density,status,alert,sms_alert_sent
+2025-08-23T11:38:22.653002,2,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:22.653002,2,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:22.653002,2,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:22.951471,4,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:22.951471,4,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:22.951471,4,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:23.242035,6,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:23.242035,6,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:23.242035,6,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:23.560995,8,11,0,12,1,"11 person, 1 cell phone",Zone 1,0.011,normal,,False
+2025-08-23T11:38:23.560995,8,11,0,12,1,"11 person, 1 cell phone",Zone 2,0.011,normal,,False
+2025-08-23T11:38:23.560995,8,11,0,12,1,"11 person, 1 cell phone",Zone 3,0.011,normal,,False
+2025-08-23T11:38:23.868534,10,11,0,12,1,"11 person, 1 cell phone",Zone 1,0.011,normal,,False
+2025-08-23T11:38:23.868534,10,11,0,12,1,"11 person, 1 cell phone",Zone 2,0.011,normal,,False
+2025-08-23T11:38:23.868534,10,11,0,12,1,"11 person, 1 cell phone",Zone 3,0.011,normal,,False
+2025-08-23T11:38:24.154806,12,12,0,12,0,12 person,Zone 1,0.012,normal,,False
+2025-08-23T11:38:24.154806,12,12,0,12,0,12 person,Zone 2,0.012,normal,,False
+2025-08-23T11:38:24.154806,12,12,0,12,0,12 person,Zone 3,0.012,normal,,False
+2025-08-23T11:38:24.538725,14,12,0,12,0,12 person,Zone 1,0.012,normal,,False
+2025-08-23T11:38:24.538725,14,12,0,12,0,12 person,Zone 2,0.012,normal,,False
+2025-08-23T11:38:24.538725,14,12,0,12,0,12 person,Zone 3,0.012,normal,,False
+2025-08-23T11:38:24.933265,16,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:24.933265,16,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:24.933265,16,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:25.318843,18,11,0,12,1,"11 person, 1 cell phone",Zone 1,0.011,normal,,False
+2025-08-23T11:38:25.318843,18,11,0,12,1,"11 person, 1 cell phone",Zone 2,0.011,normal,,False
+2025-08-23T11:38:25.318843,18,11,0,12,1,"11 person, 1 cell phone",Zone 3,0.011,normal,,False
+2025-08-23T11:38:25.686186,20,11,0,12,1,"11 person, 1 cell phone",Zone 1,0.011,normal,,False
+2025-08-23T11:38:25.686186,20,11,0,12,1,"11 person, 1 cell phone",Zone 2,0.011,normal,,False
+2025-08-23T11:38:25.686186,20,11,0,12,1,"11 person, 1 cell phone",Zone 3,0.011,normal,,False
+2025-08-23T11:38:26.041550,22,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:26.041550,22,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:26.041550,22,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:26.392764,24,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:26.392764,24,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:26.392764,24,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:26.768966,26,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:26.768966,26,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:26.768966,26,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:27.075063,28,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:27.075063,28,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:27.075063,28,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:27.400344,30,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:27.400344,30,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:27.400344,30,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:27.753703,32,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:27.753703,32,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:27.753703,32,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:28.049001,34,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:28.049001,34,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:28.049001,34,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:28.346334,36,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:28.346334,36,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:28.346334,36,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:28.706234,38,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:28.706234,38,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:28.706234,38,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:29.063998,40,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:29.063998,40,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:29.063998,40,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:29.421831,42,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:29.421831,42,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:29.421831,42,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:29.772567,44,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:29.772567,44,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:29.772567,44,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:30.143835,46,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:30.143835,46,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:30.143835,46,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:30.523116,48,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:30.523116,48,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:30.523116,48,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:30.893842,50,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:30.893842,50,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:30.893842,50,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:31.191695,52,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:31.191695,52,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:31.191695,52,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:31.503144,54,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:31.503144,54,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:31.503144,54,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:31.830626,56,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:31.830626,56,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:31.830626,56,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:32.136796,58,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:32.136796,58,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:32.136796,58,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:32.446157,60,12,0,12,0,12 person,Zone 1,0.012,normal,,False
+2025-08-23T11:38:32.446157,60,12,0,12,0,12 person,Zone 2,0.012,normal,,False
+2025-08-23T11:38:32.446157,60,12,0,12,0,12 person,Zone 3,0.012,normal,,False
+2025-08-23T11:38:32.741993,62,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:32.741993,62,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:32.741993,62,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:33.147091,64,14,0,14,0,14 person,Zone 1,0.014,normal,,False
+2025-08-23T11:38:33.147091,64,14,0,14,0,14 person,Zone 2,0.014,normal,,False
+2025-08-23T11:38:33.147091,64,14,0,14,0,14 person,Zone 3,0.014,normal,,False
+2025-08-23T11:38:33.502499,66,13,0,13,0,13 person,Zone 1,0.013,normal,,False
+2025-08-23T11:38:33.502499,66,13,0,13,0,13 person,Zone 2,0.013,normal,,False
+2025-08-23T11:38:33.502499,66,13,0,13,0,13 person,Zone 3,0.013,normal,,False
+2025-08-23T11:38:33.858898,68,12,0,12,0,12 person,Zone 1,0.012,normal,,False
+2025-08-23T11:38:33.858898,68,12,0,12,0,12 person,Zone 2,0.012,normal,,False
+2025-08-23T11:38:33.858898,68,12,0,12,0,12 person,Zone 3,0.012,normal,,False
+2025-08-23T11:38:34.203228,70,13,0,13,0,13 person,Zone 1,0.013,normal,,False
+2025-08-23T11:38:34.203228,70,13,0,13,0,13 person,Zone 2,0.013,normal,,False
+2025-08-23T11:38:34.203228,70,13,0,13,0,13 person,Zone 3,0.013,normal,,False
+2025-08-23T11:38:34.560868,72,12,0,12,0,12 person,Zone 1,0.012,normal,,False
+2025-08-23T11:38:34.560868,72,12,0,12,0,12 person,Zone 2,0.012,normal,,False
+2025-08-23T11:38:34.560868,72,12,0,12,0,12 person,Zone 3,0.012,normal,,False
+2025-08-23T11:38:34.916972,74,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:34.916972,74,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:34.916972,74,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:35.263472,76,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:35.263472,76,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:35.263472,76,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:35.630550,78,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:35.630550,78,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:35.630550,78,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:35.984659,80,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:38:35.984659,80,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:38:35.984659,80,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:38:36.312546,82,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:36.312546,82,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:36.312546,82,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:36.619032,84,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:36.619032,84,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:36.619032,84,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:36.909976,86,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:36.909976,86,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:36.909976,86,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:37.209205,88,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:37.209205,88,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:37.209205,88,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:37.517828,90,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:37.517828,90,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:37.517828,90,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:37.859024,92,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:37.859024,92,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:37.859024,92,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:38.201600,94,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:38.201600,94,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:38.201600,94,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:38.606795,96,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:38.606795,96,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:38.606795,96,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:38.967932,98,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:38.967932,98,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:38.967932,98,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:39.336683,100,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:39.336683,100,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:39.336683,100,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:39.689086,102,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:39.689086,102,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:39.689086,102,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:40.024533,104,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:40.024533,104,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:40.024533,104,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:40.366700,106,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:40.366700,106,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:40.366700,106,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:40.699405,108,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:40.699405,108,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:40.699405,108,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:41.033593,110,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:41.033593,110,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:41.033593,110,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:41.371082,112,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:41.371082,112,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:41.371082,112,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:41.670421,114,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:41.670421,114,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:41.670421,114,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:41.954890,116,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:41.954890,116,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:41.954890,116,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:42.248327,118,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:42.248327,118,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:42.248327,118,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:42.529870,120,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:42.529870,120,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:42.529870,120,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:42.819322,122,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:42.819322,122,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:42.819322,122,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:43.116521,124,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:43.116521,124,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:43.116521,124,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:43.469045,126,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:43.469045,126,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:43.469045,126,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:43.834702,128,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:43.834702,128,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:43.834702,128,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:44.192124,130,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:44.192124,130,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:44.192124,130,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:44.534799,132,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:44.534799,132,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:44.534799,132,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:44.904728,134,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:44.904728,134,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:44.904728,134,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:45.308147,136,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:45.308147,136,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:45.308147,136,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:45.644296,138,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:45.644296,138,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:45.644296,138,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:45.988918,140,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:45.988918,140,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:45.988918,140,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:46.324777,142,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:38:46.324777,142,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:38:46.324777,142,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:38:46.648344,144,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:38:46.648344,144,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:38:46.648344,144,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:38:46.951231,146,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:38:46.951231,146,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:38:46.951231,146,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:38:47.247456,148,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:38:47.247456,148,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:38:47.247456,148,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:38:47.592166,150,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:47.592166,150,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:47.592166,150,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:47.926947,152,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:47.926947,152,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:47.926947,152,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:48.309090,154,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:48.309090,154,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:48.309090,154,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:48.618434,156,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:48.618434,156,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:48.618434,156,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:48.937207,158,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:48.937207,158,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:48.937207,158,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:49.249003,160,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:49.249003,160,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:49.249003,160,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:49.556781,162,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:49.556781,162,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:49.556781,162,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:49.915415,164,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:49.915415,164,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:49.915415,164,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:50.274667,166,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:50.274667,166,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:50.274667,166,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:50.664129,168,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:50.664129,168,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:50.664129,168,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:51.016196,170,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:51.016196,170,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:51.016196,170,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:51.373105,172,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:51.373105,172,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:51.373105,172,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:51.758660,174,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:51.758660,174,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:51.758660,174,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:52.106555,176,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:52.106555,176,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:52.106555,176,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:52.421966,178,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:52.421966,178,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:52.421966,178,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:52.740302,180,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:38:52.740302,180,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:38:52.740302,180,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:38:53.051081,182,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:38:53.051081,182,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:38:53.051081,182,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:38:53.394148,184,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:53.394148,184,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:53.394148,184,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:53.696497,186,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:53.696497,186,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:53.696497,186,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:54.013875,188,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:54.013875,188,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:54.013875,188,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:54.380814,190,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:54.380814,190,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:54.380814,190,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:54.738893,192,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:54.738893,192,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:54.738893,192,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:55.087780,194,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:55.087780,194,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:55.087780,194,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:55.444937,196,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:55.444937,196,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:55.444937,196,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:55.837910,198,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:38:55.837910,198,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:38:55.837910,198,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:38:56.226405,200,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:56.226405,200,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:56.226405,200,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:56.580869,202,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:38:56.580869,202,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:38:56.580869,202,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:38:56.957053,204,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:38:56.957053,204,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:38:56.957053,204,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:38:57.299357,206,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:57.299357,206,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:57.299357,206,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:57.592095,208,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:57.592095,208,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:57.592095,208,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:57.883119,210,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:57.883119,210,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:57.883119,210,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:58.184541,212,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:38:58.184541,212,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:38:58.184541,212,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:38:58.500409,214,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:38:58.500409,214,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:38:58.500409,214,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:38:58.806244,216,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:58.806244,216,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:58.806244,216,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:59.133179,218,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:38:59.133179,218,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:38:59.133179,218,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:38:59.496847,220,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:38:59.496847,220,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:38:59.496847,220,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:38:59.869900,222,9,0,10,1,"9 person, 1 tie",Zone 1,0.009,normal,,False
+2025-08-23T11:38:59.869900,222,9,0,10,1,"9 person, 1 tie",Zone 2,0.009,normal,,False
+2025-08-23T11:38:59.869900,222,9,0,10,1,"9 person, 1 tie",Zone 3,0.009,normal,,False
+2025-08-23T11:39:00.242819,224,8,0,9,1,"8 person, 1 tie",Zone 1,0.008,normal,,False
+2025-08-23T11:39:00.242819,224,8,0,9,1,"8 person, 1 tie",Zone 2,0.008,normal,,False
+2025-08-23T11:39:00.242819,224,8,0,9,1,"8 person, 1 tie",Zone 3,0.008,normal,,False
+2025-08-23T11:39:00.603152,226,9,0,10,1,"9 person, 1 tie",Zone 1,0.009,normal,,False
+2025-08-23T11:39:00.603152,226,9,0,10,1,"9 person, 1 tie",Zone 2,0.009,normal,,False
+2025-08-23T11:39:00.603152,226,9,0,10,1,"9 person, 1 tie",Zone 3,0.009,normal,,False
+2025-08-23T11:39:00.964760,228,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:00.964760,228,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:00.964760,228,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:01.340324,230,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:01.340324,230,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:01.340324,230,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:01.708986,232,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:01.708986,232,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:01.708986,232,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:02.110776,234,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:02.110776,234,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:02.110776,234,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:02.407952,236,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:02.407952,236,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:02.407952,236,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:02.699540,238,6,0,6,0,6 person,Zone 1,0.006,normal,,False
+2025-08-23T11:39:02.699540,238,6,0,6,0,6 person,Zone 2,0.006,normal,,False
+2025-08-23T11:39:02.699540,238,6,0,6,0,6 person,Zone 3,0.006,normal,,False
+2025-08-23T11:39:02.998962,240,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:39:02.998962,240,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:39:02.998962,240,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:39:03.297516,242,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:39:03.297516,242,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:39:03.297516,242,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:39:03.606072,244,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:39:03.606072,244,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:39:03.606072,244,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:39:03.905720,246,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:39:03.905720,246,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:39:03.905720,246,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:39:04.260131,248,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:39:04.260131,248,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:39:04.260131,248,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:39:04.626217,250,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:39:04.626217,250,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:39:04.626217,250,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:39:04.995375,252,6,0,6,0,6 person,Zone 1,0.006,normal,,False
+2025-08-23T11:39:04.995375,252,6,0,6,0,6 person,Zone 2,0.006,normal,,False
+2025-08-23T11:39:04.995375,252,6,0,6,0,6 person,Zone 3,0.006,normal,,False
+2025-08-23T11:39:05.341147,254,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:05.341147,254,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:05.341147,254,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:05.728262,256,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:39:05.728262,256,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:39:05.728262,256,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:39:06.079996,258,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:39:06.079996,258,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:39:06.079996,258,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:39:06.431485,260,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:06.431485,260,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:06.431485,260,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:06.789557,262,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:06.789557,262,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:06.789557,262,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:07.133928,264,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:39:07.133928,264,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:39:07.133928,264,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:39:07.496569,266,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:07.496569,266,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:07.496569,266,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:07.804652,268,7,0,7,0,7 person,Zone 1,0.007,normal,,False
+2025-08-23T11:39:07.804652,268,7,0,7,0,7 person,Zone 2,0.007,normal,,False
+2025-08-23T11:39:07.804652,268,7,0,7,0,7 person,Zone 3,0.007,normal,,False
+2025-08-23T11:39:08.099196,270,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:39:08.099196,270,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:39:08.099196,270,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:39:08.421530,272,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:08.421530,272,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:08.421530,272,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:08.717784,274,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:39:08.717784,274,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:39:08.717784,274,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:39:09.097012,276,11,0,12,1,"11 person, 1 handbag",Zone 1,0.011,normal,,False
+2025-08-23T11:39:09.097012,276,11,0,12,1,"11 person, 1 handbag",Zone 2,0.011,normal,,False
+2025-08-23T11:39:09.097012,276,11,0,12,1,"11 person, 1 handbag",Zone 3,0.011,normal,,False
+2025-08-23T11:39:09.451912,278,11,0,12,1,"11 person, 1 handbag",Zone 1,0.011,normal,,False
+2025-08-23T11:39:09.451912,278,11,0,12,1,"11 person, 1 handbag",Zone 2,0.011,normal,,False
+2025-08-23T11:39:09.451912,278,11,0,12,1,"11 person, 1 handbag",Zone 3,0.011,normal,,False
+2025-08-23T11:39:09.830222,280,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:09.830222,280,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:09.830222,280,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:10.229711,282,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:39:10.229711,282,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:39:10.229711,282,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:39:10.643532,284,12,0,12,0,12 person,Zone 1,0.012,normal,,False
+2025-08-23T11:39:10.643532,284,12,0,12,0,12 person,Zone 2,0.012,normal,,False
+2025-08-23T11:39:10.643532,284,12,0,12,0,12 person,Zone 3,0.012,normal,,False
+2025-08-23T11:39:11.000288,286,12,0,12,0,12 person,Zone 1,0.012,normal,,False
+2025-08-23T11:39:11.000288,286,12,0,12,0,12 person,Zone 2,0.012,normal,,False
+2025-08-23T11:39:11.000288,286,12,0,12,0,12 person,Zone 3,0.012,normal,,False
+2025-08-23T11:39:11.366818,288,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:11.366818,288,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:11.366818,288,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:11.752455,290,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:11.752455,290,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:11.752455,290,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:12.099000,292,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:12.099000,292,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:12.099000,292,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:12.459273,294,8,0,8,0,8 person,Zone 1,0.008,normal,,False
+2025-08-23T11:39:12.459273,294,8,0,8,0,8 person,Zone 2,0.008,normal,,False
+2025-08-23T11:39:12.459273,294,8,0,8,0,8 person,Zone 3,0.008,normal,,False
+2025-08-23T11:39:12.828566,296,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:12.828566,296,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:12.828566,296,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:13.223788,298,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:13.223788,298,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:13.223788,298,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:13.568271,300,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:13.568271,300,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:13.568271,300,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:13.925003,302,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:39:13.925003,302,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:39:13.925003,302,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:39:14.241116,304,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:39:14.241116,304,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:39:14.241116,304,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:39:14.540346,306,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:39:14.540346,306,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:39:14.540346,306,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:39:14.845551,308,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:14.845551,308,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:14.845551,308,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:15.150780,310,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:15.150780,310,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:15.150780,310,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:15.490357,312,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:39:15.490357,312,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:39:15.490357,312,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:39:15.894404,314,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:15.894404,314,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:15.894404,314,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:16.243152,316,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:16.243152,316,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:16.243152,316,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:16.567753,318,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:16.567753,318,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:16.567753,318,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:16.882931,320,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:16.882931,320,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:16.882931,320,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:17.194911,322,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:39:17.194911,322,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:39:17.194911,322,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:39:17.550843,324,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:39:17.550843,324,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:39:17.550843,324,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:39:17.960031,326,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:39:17.960031,326,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:39:17.960031,326,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:39:18.324703,328,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:18.324703,328,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:18.324703,328,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:18.695857,330,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:18.695857,330,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:18.695857,330,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:19.073168,332,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:39:19.073168,332,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:39:19.073168,332,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:39:19.372932,334,11,0,11,0,11 person,Zone 1,0.011,normal,,False
+2025-08-23T11:39:19.372932,334,11,0,11,0,11 person,Zone 2,0.011,normal,,False
+2025-08-23T11:39:19.372932,334,11,0,11,0,11 person,Zone 3,0.011,normal,,False
+2025-08-23T11:39:19.765129,336,12,0,12,0,12 person,Zone 1,0.012,normal,,False
+2025-08-23T11:39:19.765129,336,12,0,12,0,12 person,Zone 2,0.012,normal,,False
+2025-08-23T11:39:19.765129,336,12,0,12,0,12 person,Zone 3,0.012,normal,,False
+2025-08-23T11:39:20.065600,338,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:20.065600,338,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:20.065600,338,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:20.355986,340,9,0,10,1,"9 person, 1 handbag",Zone 1,0.009,normal,,False
+2025-08-23T11:39:20.355986,340,9,0,10,1,"9 person, 1 handbag",Zone 2,0.009,normal,,False
+2025-08-23T11:39:20.355986,340,9,0,10,1,"9 person, 1 handbag",Zone 3,0.009,normal,,False
+2025-08-23T11:39:20.665658,342,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:20.665658,342,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:20.665658,342,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:20.966980,344,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:20.966980,344,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:20.966980,344,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:21.319899,346,10,0,11,1,"10 person, 1 handbag",Zone 1,0.01,normal,,False
+2025-08-23T11:39:21.319899,346,10,0,11,1,"10 person, 1 handbag",Zone 2,0.01,normal,,False
+2025-08-23T11:39:21.319899,346,10,0,11,1,"10 person, 1 handbag",Zone 3,0.01,normal,,False
+2025-08-23T11:39:21.718440,348,10,0,10,0,10 person,Zone 1,0.01,normal,,False
+2025-08-23T11:39:21.718440,348,10,0,10,0,10 person,Zone 2,0.01,normal,,False
+2025-08-23T11:39:21.718440,348,10,0,10,0,10 person,Zone 3,0.01,normal,,False
+2025-08-23T11:39:22.077862,350,10,0,11,1,"10 person, 1 handbag",Zone 1,0.01,normal,,False
+2025-08-23T11:39:22.077862,350,10,0,11,1,"10 person, 1 handbag",Zone 2,0.01,normal,,False
+2025-08-23T11:39:22.077862,350,10,0,11,1,"10 person, 1 handbag",Zone 3,0.01,normal,,False
+2025-08-23T11:39:22.426050,352,9,0,10,1,"9 person, 1 handbag",Zone 1,0.009,normal,,False
+2025-08-23T11:39:22.426050,352,9,0,10,1,"9 person, 1 handbag",Zone 2,0.009,normal,,False
+2025-08-23T11:39:22.426050,352,9,0,10,1,"9 person, 1 handbag",Zone 3,0.009,normal,,False
+2025-08-23T11:39:22.782627,354,8,0,9,1,"8 person, 1 handbag",Zone 1,0.008,normal,,False
+2025-08-23T11:39:22.782627,354,8,0,9,1,"8 person, 1 handbag",Zone 2,0.008,normal,,False
+2025-08-23T11:39:22.782627,354,8,0,9,1,"8 person, 1 handbag",Zone 3,0.008,normal,,False
+2025-08-23T11:39:23.136678,356,8,0,9,1,"8 person, 1 handbag",Zone 1,0.008,normal,,False
+2025-08-23T11:39:23.136678,356,8,0,9,1,"8 person, 1 handbag",Zone 2,0.008,normal,,False
+2025-08-23T11:39:23.136678,356,8,0,9,1,"8 person, 1 handbag",Zone 3,0.008,normal,,False
+2025-08-23T11:39:23.497225,358,9,0,10,1,"9 person, 1 handbag",Zone 1,0.009,normal,,False
+2025-08-23T11:39:23.497225,358,9,0,10,1,"9 person, 1 handbag",Zone 2,0.009,normal,,False
+2025-08-23T11:39:23.497225,358,9,0,10,1,"9 person, 1 handbag",Zone 3,0.009,normal,,False
+2025-08-23T11:39:23.824283,360,10,0,11,1,"10 person, 1 handbag",Zone 1,0.01,normal,,False
+2025-08-23T11:39:23.824283,360,10,0,11,1,"10 person, 1 handbag",Zone 2,0.01,normal,,False
+2025-08-23T11:39:23.824283,360,10,0,11,1,"10 person, 1 handbag",Zone 3,0.01,normal,,False
+2025-08-23T11:39:24.119619,362,9,0,10,1,"9 person, 1 handbag",Zone 1,0.009,normal,,False
+2025-08-23T11:39:24.119619,362,9,0,10,1,"9 person, 1 handbag",Zone 2,0.009,normal,,False
+2025-08-23T11:39:24.119619,362,9,0,10,1,"9 person, 1 handbag",Zone 3,0.009,normal,,False
+2025-08-23T11:39:24.462392,364,9,0,10,1,"9 person, 1 handbag",Zone 1,0.009,normal,,False
+2025-08-23T11:39:24.462392,364,9,0,10,1,"9 person, 1 handbag",Zone 2,0.009,normal,,False
+2025-08-23T11:39:24.462392,364,9,0,10,1,"9 person, 1 handbag",Zone 3,0.009,normal,,False
+2025-08-23T11:39:24.758591,366,8,0,9,1,"8 person, 1 handbag",Zone 1,0.008,normal,,False
+2025-08-23T11:39:24.758591,366,8,0,9,1,"8 person, 1 handbag",Zone 2,0.008,normal,,False
+2025-08-23T11:39:24.758591,366,8,0,9,1,"8 person, 1 handbag",Zone 3,0.008,normal,,False
+2025-08-23T11:39:25.054535,368,8,0,9,1,"8 person, 1 handbag",Zone 1,0.008,normal,,False
+2025-08-23T11:39:25.054535,368,8,0,9,1,"8 person, 1 handbag",Zone 2,0.008,normal,,False
+2025-08-23T11:39:25.054535,368,8,0,9,1,"8 person, 1 handbag",Zone 3,0.008,normal,,False
+2025-08-23T11:39:25.357808,370,8,0,9,1,"8 person, 1 handbag",Zone 1,0.008,normal,,False
+2025-08-23T11:39:25.357808,370,8,0,9,1,"8 person, 1 handbag",Zone 2,0.008,normal,,False
+2025-08-23T11:39:25.357808,370,8,0,9,1,"8 person, 1 handbag",Zone 3,0.008,normal,,False
+2025-08-23T11:39:25.724784,372,8,0,9,1,"8 person, 1 handbag",Zone 1,0.008,normal,,False
+2025-08-23T11:39:25.724784,372,8,0,9,1,"8 person, 1 handbag",Zone 2,0.008,normal,,False
+2025-08-23T11:39:25.724784,372,8,0,9,1,"8 person, 1 handbag",Zone 3,0.008,normal,,False
+2025-08-23T11:39:26.087395,374,9,0,10,1,"9 person, 1 handbag",Zone 1,0.009,normal,,False
+2025-08-23T11:39:26.087395,374,9,0,10,1,"9 person, 1 handbag",Zone 2,0.009,normal,,False
+2025-08-23T11:39:26.087395,374,9,0,10,1,"9 person, 1 handbag",Zone 3,0.009,normal,,False
+2025-08-23T11:39:26.454306,376,9,0,10,1,"9 person, 1 handbag",Zone 1,0.009,normal,,False
+2025-08-23T11:39:26.454306,376,9,0,10,1,"9 person, 1 handbag",Zone 2,0.009,normal,,False
+2025-08-23T11:39:26.454306,376,9,0,10,1,"9 person, 1 handbag",Zone 3,0.009,normal,,False
+2025-08-23T11:39:26.832272,378,9,0,10,1,"9 person, 1 handbag",Zone 1,0.009,normal,,False
+2025-08-23T11:39:26.832272,378,9,0,10,1,"9 person, 1 handbag",Zone 2,0.009,normal,,False
+2025-08-23T11:39:26.832272,378,9,0,10,1,"9 person, 1 handbag",Zone 3,0.009,normal,,False
+2025-08-23T11:39:27.201369,380,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:27.201369,380,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:27.201369,380,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:27.564729,382,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:27.564729,382,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:27.564729,382,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:27.898504,384,9,0,9,0,9 person,Zone 1,0.009,normal,,False
+2025-08-23T11:39:27.898504,384,9,0,9,0,9 person,Zone 2,0.009,normal,,False
+2025-08-23T11:39:27.898504,384,9,0,9,0,9 person,Zone 3,0.009,normal,,False
+2025-08-23T11:39:28.244062,386,8,0,10,2,"8 person, 2 handbag",Zone 1,0.008,normal,,False
+2025-08-23T11:39:28.244062,386,8,0,10,2,"8 person, 2 handbag",Zone 2,0.008,normal,,False
+2025-08-23T11:39:28.244062,386,8,0,10,2,"8 person, 2 handbag",Zone 3,0.008,normal,,False
+2025-08-23T11:39:28.588719,388,8,0,10,2,"8 person, 2 handbag",Zone 1,0.008,normal,,False
+2025-08-23T11:39:28.588719,388,8,0,10,2,"8 person, 2 handbag",Zone 2,0.008,normal,,False
+2025-08-23T11:39:28.588719,388,8,0,10,2,"8 person, 2 handbag",Zone 3,0.008,normal,,False
+2025-08-23T11:39:28.927076,390,9,0,11,2,"9 person, 2 handbag",Zone 1,0.009,normal,,False
+2025-08-23T11:39:28.927076,390,9,0,11,2,"9 person, 2 handbag",Zone 2,0.009,normal,,False
+2025-08-23T11:39:28.927076,390,9,0,11,2,"9 person, 2 handbag",Zone 3,0.009,normal,,False
+2025-08-23T11:39:29.215203,392,7,0,9,2,"7 person, 2 handbag",Zone 1,0.007,normal,,False
+2025-08-23T11:39:29.215203,392,7,0,9,2,"7 person, 2 handbag",Zone 2,0.007,normal,,False
+2025-08-23T11:39:29.215203,392,7,0,9,2,"7 person, 2 handbag",Zone 3,0.007,normal,,False
+2025-08-23T11:39:29.515990,394,9,0,11,2,"9 person, 2 handbag",Zone 1,0.009,normal,,False
+2025-08-23T11:39:29.515990,394,9,0,11,2,"9 person, 2 handbag",Zone 2,0.009,normal,,False
+2025-08-23T11:39:29.515990,394,9,0,11,2,"9 person, 2 handbag",Zone 3,0.009,normal,,False
+2025-08-23T11:39:29.803455,396,8,0,10,2,"8 person, 2 handbag",Zone 1,0.008,normal,,False
+2025-08-23T11:39:29.803455,396,8,0,10,2,"8 person, 2 handbag",Zone 2,0.008,normal,,False
+2025-08-23T11:39:29.803455,396,8,0,10,2,"8 person, 2 handbag",Zone 3,0.008,normal,,False
+2025-08-23T11:39:30.124465,398,7,0,9,2,"7 person, 2 handbag",Zone 1,0.007,normal,,False
+2025-08-23T11:39:30.124465,398,7,0,9,2,"7 person, 2 handbag",Zone 2,0.007,normal,,False
+2025-08-23T11:39:30.124465,398,7,0,9,2,"7 person, 2 handbag",Zone 3,0.007,normal,,False
+2025-08-23T11:39:30.422167,400,6,0,7,1,"6 person, 1 handbag",Zone 1,0.006,normal,,False
+2025-08-23T11:39:30.422167,400,6,0,7,1,"6 person, 1 handbag",Zone 2,0.006,normal,,False
+2025-08-23T11:39:30.422167,400,6,0,7,1,"6 person, 1 handbag",Zone 3,0.006,normal,,False

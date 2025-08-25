@@ -1,0 +1,62 @@
+{
+  "contacts": [
+    {
+      "name": "Fire Department Emergency",
+      "phone_number": "+1234567890",
+      "department": "fire_department",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Police Department Emergency",
+      "phone_number": "+1234567891",
+      "department": "police_department",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Medical Emergency Services",
+      "phone_number": "+1234567892",
+      "department": "medical_emergency",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Security Team",
+      "phone_number": "+1234567893",
+      "department": "security",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Facility Management",
+      "phone_number": "+1234567894",
+      "department": "management",
+      "priority": 3,
+      "active": true
+    },
+    {
+      "name": "Fire department ",
+      "phone_number": "+919405385805",
+      "department": "fire_department",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Medical Help",
+      "phone_number": "+91 9356961167",
+      "department": "medical_emergency",
+      "priority": 1,
+      "active": true
+    }
+  ],
+  "alert_config": {
+    "enabled": true,
+    "retry_attempts": 3,
+    "retry_delay_minutes": 2,
+    "escalation_delay_minutes": 5,
+    "auto_escalate": true,
+    "include_location": true,
+    "include_timestamp": true
+  }
+}
